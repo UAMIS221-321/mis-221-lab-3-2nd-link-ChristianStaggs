@@ -1,0 +1,15 @@
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.AssemblyInfoInputs.cache
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.AssemblyInfo.cs
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.csproj.CoreCompileInputs.cache
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.sourcelink.json
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.deps.json
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.runtimeconfig.json
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.dll
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.pdb
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.dll
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-ChristianStaggs.dll
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.pdb
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-3-2nd-link-ChristianStaggs.genruntimeconfig.cache
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-3-2nd-link-ChristianStaggs/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-ChristianStaggs.dll
